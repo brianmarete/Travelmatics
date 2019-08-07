@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "843819614273",
+    "firebase_url": "https://travelmatics-6c454.firebaseio.com",
+    "project_id": "travelmatics-6c454",
+    "storage_bucket": "travelmatics-6c454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843819614273:android:479f4818aff2af47",
+        "android_client_info": {
+          "package_name": "com.brianmarete.travelmatics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843819614273-ve6aojprdgblu706h68p5eka5vbf4b2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brianmarete.travelmatics",
+            "certificate_hash": "e45735e737c9de9bd503d9cb13e11d8e5f848fd3"
+          }
+        },
+        {
+          "client_id": "843819614273-7uqnq0rb8cvenlleer7e0m4a6un9ud6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxIX6pn-2uPwokZIhT5E8dmt7tqTQ-mo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843819614273-7uqnq0rb8cvenlleer7e0m4a6un9ud6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
